@@ -1,0 +1,9 @@
+C:\Users\Jhon\documents\visual studio 2015\Projects\ElComercio\Parte2.Logica\bin\Debug\Parte2.Logica.dll
+C:\Users\Jhon\documents\visual studio 2015\Projects\ElComercio\Parte2.Logica\bin\Debug\Parte2.Logica.pdb
+C:\Users\Jhon\documents\visual studio 2015\Projects\ElComercio\Parte2.Logica\bin\Debug\Parte2.Datos.dll
+C:\Users\Jhon\documents\visual studio 2015\Projects\ElComercio\Parte2.Logica\bin\Debug\Parte2.Entities.dll
+C:\Users\Jhon\documents\visual studio 2015\Projects\ElComercio\Parte2.Logica\bin\Debug\Parte2.Datos.pdb
+C:\Users\Jhon\documents\visual studio 2015\Projects\ElComercio\Parte2.Logica\bin\Debug\Parte2.Entities.pdb
+C:\Users\Jhon\documents\visual studio 2015\Projects\ElComercio\Parte2.Logica\obj\Debug\Parte2.Logica.csprojResolveAssemblyReference.cache
+C:\Users\Jhon\documents\visual studio 2015\Projects\ElComercio\Parte2.Logica\obj\Debug\Parte2.Logica.dll
+C:\Users\Jhon\documents\visual studio 2015\Projects\ElComercio\Parte2.Logica\obj\Debug\Parte2.Logica.pdb

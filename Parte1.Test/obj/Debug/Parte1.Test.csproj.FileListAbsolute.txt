@@ -1,0 +1,8 @@
+C:\Users\Jhon\documents\visual studio 2015\Projects\ElComercio\Parte1.Test\bin\Debug\Parte1.Test.exe.config
+C:\Users\Jhon\documents\visual studio 2015\Projects\ElComercio\Parte1.Test\bin\Debug\Parte1.Test.exe
+C:\Users\Jhon\documents\visual studio 2015\Projects\ElComercio\Parte1.Test\bin\Debug\Parte1.Test.pdb
+C:\Users\Jhon\documents\visual studio 2015\Projects\ElComercio\Parte1.Test\bin\Debug\Parte1.Functions.dll
+C:\Users\Jhon\documents\visual studio 2015\Projects\ElComercio\Parte1.Test\bin\Debug\Parte1.Functions.pdb
+C:\Users\Jhon\documents\visual studio 2015\Projects\ElComercio\Parte1.Test\obj\Debug\Parte1.Test.csprojResolveAssemblyReference.cache
+C:\Users\Jhon\documents\visual studio 2015\Projects\ElComercio\Parte1.Test\obj\Debug\Parte1.Test.exe
+C:\Users\Jhon\documents\visual studio 2015\Projects\ElComercio\Parte1.Test\obj\Debug\Parte1.Test.pdb

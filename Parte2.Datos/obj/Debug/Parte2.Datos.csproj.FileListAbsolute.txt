@@ -1,0 +1,7 @@
+C:\Users\Jhon\documents\visual studio 2015\Projects\ElComercio\Parte2.Datos\bin\Debug\Parte2.Datos.dll
+C:\Users\Jhon\documents\visual studio 2015\Projects\ElComercio\Parte2.Datos\bin\Debug\Parte2.Datos.pdb
+C:\Users\Jhon\documents\visual studio 2015\Projects\ElComercio\Parte2.Datos\bin\Debug\Parte2.Entities.dll
+C:\Users\Jhon\documents\visual studio 2015\Projects\ElComercio\Parte2.Datos\bin\Debug\Parte2.Entities.pdb
+C:\Users\Jhon\documents\visual studio 2015\Projects\ElComercio\Parte2.Datos\obj\Debug\Parte2.Datos.csprojResolveAssemblyReference.cache
+C:\Users\Jhon\documents\visual studio 2015\Projects\ElComercio\Parte2.Datos\obj\Debug\Parte2.Datos.dll
+C:\Users\Jhon\documents\visual studio 2015\Projects\ElComercio\Parte2.Datos\obj\Debug\Parte2.Datos.pdb

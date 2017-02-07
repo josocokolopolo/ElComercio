@@ -1,0 +1,5 @@
+C:\Users\Jhon\documents\visual studio 2015\Projects\ElComercio\Parte2.Entities\bin\Debug\Parte2.Entities.dll
+C:\Users\Jhon\documents\visual studio 2015\Projects\ElComercio\Parte2.Entities\bin\Debug\Parte2.Entities.pdb
+C:\Users\Jhon\documents\visual studio 2015\Projects\ElComercio\Parte2.Entities\obj\Debug\Parte2.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Jhon\documents\visual studio 2015\Projects\ElComercio\Parte2.Entities\obj\Debug\Parte2.Entities.dll
+C:\Users\Jhon\documents\visual studio 2015\Projects\ElComercio\Parte2.Entities\obj\Debug\Parte2.Entities.pdb

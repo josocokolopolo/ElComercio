@@ -1,0 +1,5 @@
+C:\Users\Jhon\documents\visual studio 2015\Projects\ElComercio\Parte1.Functions\bin\Debug\Parte1.Functions.dll
+C:\Users\Jhon\documents\visual studio 2015\Projects\ElComercio\Parte1.Functions\bin\Debug\Parte1.Functions.pdb
+C:\Users\Jhon\documents\visual studio 2015\Projects\ElComercio\Parte1.Functions\obj\Debug\Parte1.Functions.csprojResolveAssemblyReference.cache
+C:\Users\Jhon\documents\visual studio 2015\Projects\ElComercio\Parte1.Functions\obj\Debug\Parte1.Functions.dll
+C:\Users\Jhon\documents\visual studio 2015\Projects\ElComercio\Parte1.Functions\obj\Debug\Parte1.Functions.pdb
